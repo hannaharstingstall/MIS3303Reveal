@@ -15,6 +15,14 @@ html {
   height: calc( var(--vh, 1vh) * 100);
   overflow: hidden; }
 
+span{
+    color:hotpink;
+}
+img {
+    border: dotted;
+    text-align: center;
+}
+
 body {
   height: 100%;
   overflow: hidden;
